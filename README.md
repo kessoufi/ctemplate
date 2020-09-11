@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.com/kessoufi/ctemplate.svg?branch=master)](https://travis-ci.com/kessoufi/ctemplate)
+
 Welcome to the C++ CTemplate system!
 ====================================
 
