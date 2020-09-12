@@ -1,5 +1,9 @@
 [![Build Status](https://api.travis-ci.com/kessoufi/ctemplate.svg?branch=master)](https://travis-ci.com/kessoufi/ctemplate)
-
+[![Coverage Status](https://coveralls.io/repos/github/kessoufi/ctemplate/badge.svg?branch=master)](https://coveralls.io/github/kessoufi/ctemplate?branch=master)
+<a href="https://scan.coverity.com/projects/kessoufi-ctemplate">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/21751/badge.svg"/>
+</a>
 Welcome to the C++ CTemplate system!
 ====================================
 
